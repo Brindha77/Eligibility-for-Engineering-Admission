@@ -1,4 +1,4 @@
-# EXP 1 Eligibility-for-Engineering-Admission
+# Eligibility-for-Engineering-Admission
 ## Aim:
 To write a C# program to check whether the student is eligibile for the engineering admission
 
